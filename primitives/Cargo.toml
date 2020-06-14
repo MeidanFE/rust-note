@@ -1,5 +1,5 @@
 [package]
-name = "function"
+name = "primitives"
 version = "0.1.0"
 authors = ["Simon-Bin <2632003786@qq.com>"]
 edition = "2018"
